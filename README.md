@@ -6,9 +6,11 @@ EasyPass is a lightweight program designed to simplify the process of creating s
 
 Goals
 
-Balancing Security and Usability: Most "secure" password generators tend to create complex and hard-to-remember passwords. However, for the average person who isn't necessarily a high-value target, these overly complex passwords can be more of a hassle than a benefit. EasyPass aims to provide a solution that is both secure and user-friendly.
+Balancing Security and Usability: Most "secure" password generators tend to create complex and hard-to-remember passwords. However, for the average person who isn't necessarily a target, these overly complex passwords can be more of a hassle than a benefit. EasyPass aims to provide a solution that is both secure and user-friendly.
 
-Key Objectives: Memorability: EasyPass generates passwords that are based on memorable names from a list that I have compiled. This ensures that the resulting passwords are more familiar and easier to remember for users.
+Key Objectives
+
+Memorability: EasyPass generates passwords that are based on memorable names from a list that I have compiled. This ensures that the resulting passwords are more familiar and easier to remember for users.
 
 Enhanced Security: To prevent brute force account breaches, the program augments the selected words with assorted special characters and numbers, increasing password complexity.
 
